@@ -5,7 +5,7 @@ This application is an assignment application created for HATE Company. This app
 On the front side, I used HTML5, CSS3, Bootstrap. PHP7 is used on the backend side.
 The demo version of this application has been uploaded to the hosting. You can access it by [clicking ](https://mysimpliform.com/commet/)this link.
 
- 
+ https://mysimpliform.com/commet/
 
 Import the myblog.sql file, change the params in the modul/db.php file to your own
 
